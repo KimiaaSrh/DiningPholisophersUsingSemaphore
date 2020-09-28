@@ -1,0 +1,473 @@
+0 start eating 
+4 could not eat
+2 start eating 
+2 end eating 
+4 could not eat
+3 start eating 
+0 end eating 
+1 start eating 
+1 end eating 
+4 sleeping
+3 end eating 
+2 sleeping
+0 could not eat
+4 could not eat
+2 could not eat
+3 could not eat
+0 could not eat
+1 could not eat
+2 start eating 
+0 could not eat
+3 sleeping
+4 could not eat
+1 could not eat
+3 sleeping
+0 could not eat
+4 could not eat
+1 could not eat
+2 end eating 
+2 start eating 
+1 could not eat
+0 could not eat
+4 could not eat
+3 sleeping
+3 sleeping
+4 start eating 
+2 end eating 
+0 sleeping
+1 could not eat
+0 sleeping
+3 sleeping
+1 could not eat
+2 start eating 
+4 end eating 
+3 sleeping
+0 could not eat
+4 could not eat
+1 could not eat
+2 end eating 
+0 start eating 
+4 could not eat
+2 could not eat
+3 could not eat
+2 could not eat
+4 sleeping
+0 end eating 
+3 start eating 
+1 start eating 
+3 end eating 
+2 sleeping
+4 sleeping
+0 could not eat
+1 end eating 
+1 start eating 
+3 could not eat
+0 sleeping
+2 sleeping
+4 start eating 
+2 sleeping
+1 end eating 
+4 end eating 
+0 sleeping
+3 could not eat
+0 start eating 
+3 start eating 
+2 could not eat
+4 could not eat
+2 could not eat
+0 end eating 
+4 sleeping
+3 end eating 
+1 start eating 
+1 end eating 
+0 could not eat
+3 start eating 
+2 sleeping
+3 end eating 
+0 could not eat
+1 start eating 
+2 could not eat
+4 start eating 
+3 could not eat
+0 sleeping
+1 end eating 
+2 start eating 
+4 end eating 
+3 sleeping
+0 start eating 
+1 could not eat
+2 end eating 
+4 could not eat
+3 start eating 
+1 sleeping
+0 end eating 
+4 sleeping
+2 could not eat
+3 end eating 
+0 could not eat
+1 start eating 
+2 sleeping
+4 start eating 
+1 end eating 
+0 sleeping
+3 could not eat
+4 end eating 
+2 start eating 
+3 sleeping
+0 start eating 
+1 could not eat
+2 end eating 
+4 could not eat
+1 sleeping
+3 start eating 
+0 end eating 
+2 could not eat
+4 sleeping
+3 end eating 
+0 start eating 
+1 sleeping
+4 could not eat
+2 start eating 
+0 end eating 
+1 sleeping
+3 sleeping
+4 start eating 
+2 end eating 
+0 sleeping
+3 could not eat
+1 start eating 
+2 sleeping
+4 end eating 
+0 could not eat
+1 end eating 
+3 start eating 
+4 sleeping
+2 could not eat
+3 end eating 
+0 start eating 
+4 could not eat
+2 start eating 
+3 sleeping
+0 end eating 
+1 could not eat
+2 end eating 
+4 start eating 
+0 sleeping
+1 start eating 
+3 could not eat
+2 sleeping
+4 end eating 
+0 could not eat
+1 end eating 
+3 start eating 
+4 sleeping
+2 could not eat
+3 end eating 
+1 start eating 
+0 could not eat
+2 sleeping
+4 start eating 
+1 end eating 
+3 could not eat
+0 sleeping
+4 end eating 
+2 start eating 
+3 sleeping
+1 could not eat
+0 start eating 
+2 end eating 
+4 could not eat
+1 sleeping
+3 start eating 
+0 end eating 
+2 could not eat
+4 sleeping
+3 end eating 
+1 start eating 
+0 could not eat
+4 start eating 
+2 sleeping
+3 could not eat
+1 end eating 
+0 sleeping
+4 end eating 
+2 start eating 
+3 sleeping
+1 could not eat
+0 start eating 
+2 end eating 
+4 could not eat
+0 end eating 
+3 start eating 
+1 sleeping
+4 sleeping
+2 could not eat
+0 start eating 
+1 sleeping
+3 end eating 
+4 could not eat
+2 start eating 
+0 end eating 
+3 sleeping
+1 sleeping
+2 end eating 
+4 start eating 
+3 could not eat
+1 start eating 
+0 sleeping
+2 sleeping
+4 end eating 
+3 start eating 
+0 could not eat
+1 end eating 
+4 sleeping
+2 could not eat
+0 start eating 
+3 end eating 
+1 sleeping
+4 could not eat
+2 start eating 
+1 sleeping
+0 end eating 
+3 sleeping
+2 end eating 
+4 start eating 
+3 could not eat
+1 start eating 
+0 sleeping
+4 end eating 
+2 sleeping
+3 start eating 
+0 could not eat
+1 end eating 
+4 sleeping
+2 could not eat
+3 end eating 
+0 could not eat
+1 start eating 
+2 sleeping
+4 start eating 
+3 could not eat
+0 sleeping
+1 end eating 
+4 end eating 
+2 start eating 
+3 sleeping
+0 start eating 
+1 could not eat
+2 end eating 
+4 could not eat
+3 start eating 
+1 sleeping
+0 end eating 
+4 sleeping
+2 could not eat
+0 start eating 
+3 end eating 
+1 sleeping
+2 start eating 
+4 could not eat
+3 sleeping
+0 end eating 
+1 sleeping
+2 end eating 
+4 start eating 
+1 start eating 
+0 sleeping
+3 could not eat
+2 sleeping
+4 end eating 
+1 end eating 
+3 start eating 
+0 could not eat
+4 sleeping
+2 could not eat
+1 start eating 
+0 could not eat
+3 end eating 
+4 start eating 
+2 sleeping
+0 sleeping
+3 could not eat
+1 end eating 
+4 end eating 
+2 start eating 
+3 sleeping
+0 start eating 
+1 sleeping
+2 end eating 
+4 could not eat
+3 start eating 
+1 sleeping
+0 end eating 
+4 sleeping
+2 could not eat
+3 end eating 
+1 start eating 
+0 could not eat
+2 sleeping
+4 start eating 
+0 sleeping
+1 end eating 
+3 could not eat
+4 end eating 
+2 start eating 
+0 could not eat
+3 sleeping
+1 could not eat
+2 end eating 
+4 start eating 
+0 sleeping
+1 start eating 
+3 could not eat
+2 sleeping
+4 end eating 
+3 start eating 
+0 could not eat
+1 end eating 
+4 sleeping
+2 could not eat
+1 start eating 
+3 end eating 
+0 could not eat
+4 start eating 
+2 sleeping
+1 end eating 
+0 sleeping
+3 could not eat
+4 end eating 
+2 start eating 
+1 could not eat
+0 start eating 
+3 sleeping
+2 end eating 
+4 could not eat
+1 sleeping
+0 end eating 
+3 start eating 
+2 could not eat
+4 sleeping
+3 end eating 
+0 start eating 
+2 start eating 
+4 could not eat
+0 end eating 
+3 sleeping
+1 could not eat
+2 end eating 
+4 start eating 
+0 sleeping
+3 could not eat
+1 start eating 
+2 sleeping
+4 end eating 
+1 end eating 
+0 could not eat
+3 start eating 
+4 sleeping
+2 could not eat
+3 end eating 
+0 could not eat
+1 start eating 
+2 sleeping
+4 start eating 
+0 sleeping
+3 could not eat
+1 end eating 
+4 end eating 
+2 start eating 
+3 sleeping
+1 could not eat
+0 could not eat
+2 end eating 
+4 start eating 
+0 sleeping
+3 could not eat
+1 start eating 
+2 sleeping
+4 end eating 
+1 end eating 
+3 start eating 
+4 sleeping
+0 start eating 
+2 could not eat
+3 end eating 
+1 sleeping
+0 end eating 
+2 start eating 
+4 could not eat
+3 sleeping
+1 could not eat
+4 start eating 
+2 end eating 
+0 sleeping
+1 start eating 
+3 could not eat
+2 sleeping
+0 sleeping
+4 end eating 
+1 end eating 
+3 start eating 
+2 could not eat
+4 sleeping
+0 start eating 
+3 end eating 
+1 sleeping
+0 end eating 
+2 start eating 
+4 could not eat
+1 could not eat
+3 sleeping
+0 start eating 
+4 could not eat
+2 end eating 
+1 sleeping
+3 start eating 
+2 could not eat
+0 end eating 
+4 sleeping
+3 end eating 
+1 start eating 
+2 sleeping
+0 could not eat
+4 start eating 
+1 end eating 
+3 could not eat
+0 sleeping
+2 start eating 
+4 end eating 
+3 sleeping
+1 could not eat
+2 end eating 
+0 start eating 
+4 could not eat
+3 start eating 
+1 sleeping
+4 sleeping
+0 end eating 
+2 could not eat
+3 end eating 
+1 start eating 
+2 sleeping
+4 could not eat
+0 could not eat
+3 start eating 
+1 end eating 
+2 could not eat
+0 start eating 
+4 sleeping
+3 end eating 
+1 sleeping
+2 start eating 
+4 could not eat
+0 end eating 
+3 sleeping
+1 could not eat
+2 end eating 
+4 could not eat
+0 start eating 
+3 start eating 
+1 sleeping
+0 end eating 
+2 could not eat
+4 sleeping
